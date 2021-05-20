@@ -1,6 +1,6 @@
 # food_record_system
 
-beginners assignment project
+beginners Flutter assignment project
 
 ## Getting Started
 
