@@ -1,0 +1,21 @@
+This is an Simple beginner application with title "Food Record System".
+
+This app is a daily home app which aimed:
+-to record the data of the bought food into local database (SQLite)
+-to show summary of the record data
+-to delete the data
+
+References for the mini project:
+
+<<Flutter Cookbook>> -- https://flutter.dev/docs/cookbook
+<<Coding with Curry - Flutter>> -- https://github.com/cheetahcoding/Flutter-Tutorials/blob/form_demo/lib/main.dart
+<<flutter_sqlite_crud>> -- https://github.com/myvsparth/flutter_sqlite_crud
+<<flutter-firebase-shopping-app>> -- https://github.com/Boghdady/flutter-firebase-shopping-app/blob/master/lib/core/providers/product_model_provider.dart
+<<Flutter Dynamic Multi Form Tutorial>> -- https://youtu.be/H2pVgDjDrxQ
+<<How to create and validate forms in Flutter>> -- https://youtu.be/nFSL-CqwRDo
+-- https://stackoverflow.com/questions/54181838/flutter-required-keyword
+-- https://stackoverflow.com/questions/58359607/using-texteditingcontroller-more-than-once
+-- https://stackoverflow.com/questions/53406548/error-dart-the-argument-type-context-cant-be-assigned-to-the-parameter-typ
+-- https://stackoverflow.com/questions/61796460/the-argument-type-widget-functionbuildcontext-cant-be-assigned-to-the-parame
+-- https://stackoverflow.com/questions/50287995/passing-data-to-statefulwidget-and-accessing-it-in-its-state-in-flutter
+-- https://stackoverflow.com/questions/40579879/display-snackbar-in-flutter
